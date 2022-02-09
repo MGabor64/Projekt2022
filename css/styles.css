@@ -128,33 +128,33 @@ footer a {
     color: white;
 }
 @media only screen
-and (min-width:480px)
-and (max-width:720px)
+and (min-width:721px)
+and (max-width:1080px)
 {
     div#wrapper{width: 482px}
     header{font-size: 200%}
-    section{width: 360px; padding: 0px; margin: 0px;}
-    aside{width: 110px; font-size: 80%; padding: 0px; margin: 2px;}
-    footer{width: 500px}
+    section{width: 560px; padding: 0px; margin: 0px;}
+    aside{width: 150px; font-size: 80%; padding: 0px; margin: 2px;}
+    footer{width: 720px}
 }
 @media only screen
-and (min-width:360px)
-and (max-width:480px)
+and (min-width:481px)
+and (max-width:720px)
 {
     div#wrapper{width: 480px}
     header{font-size: 200%}
-    section{width: 360px; border: 0;margin: 0;padding: 0}
+    section{width: 470px; border: 0;margin: 0;padding: 0}
     aside{display: none}
-    footer{width: 360px; border: 5px;margin: 0;padding: 5px}
+    footer{width: 480px; border: 5px;margin: 0;padding: 5px}
 }
 @media only screen
-and (min-width:240px)
-and (max-width:360px)
+and (min-width: 361px)
+and (max-width: 480px)
 {
     div#wrapper{width: 360px}
     header{font-size: 100%;text-align: center}
     header span{display: block} 
-    section{width: 300px; border: 0;margin: 0;padding: 0}
+    section{width: 350px; border: 0;margin: 0;padding: 0}
     aside{display: none}
     footer{display: none}
 }
