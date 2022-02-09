@@ -143,7 +143,7 @@ and (max-width:720px)
 {
     div#wrapper{width: 480px}
     header{font-size: 200%}
-    section{width: 470px; border: 0;margin: 0;padding: 0}
+    section{width: 460px; border: 0;margin: 0;padding: 0}
     aside{display: none}
     footer{width: 480px; border: 5px;margin: 0;padding: 5px}
 }
