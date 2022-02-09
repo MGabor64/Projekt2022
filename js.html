@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script>
+
+        </script>
+    </head> 
+    <body>
+       <h2 id="herror">Input ellenőrzés</h2> 
+       <p>Adj meg egy számot egy és tíz között</p>
+       <input id="numb">
+       <button type="button" onclick="myFunction()">Rendben</button>
+       <p id="demo"></p>
+       <script>
+           function myFunction()
+           {
+               var x, text;
+               x=document.getElementById("numb").value;
+               if(isNaN(x) || x<1 || x>10)
+               {
+                   text="Nem jó érték!";
+                   document.getElementById("herror").innerHTML="HIBA!!!";
+               }
+               else{
+                   text="<b>Benmenet rendben!</b>";
+                   document.getElementById("herror").innerHTML="Input ellenőrzés";
+               }
+               document.getElementById("demo").innerHTML=text;
+               
+           }
+       </script>
+    </body>
+</html>
