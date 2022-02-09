@@ -133,8 +133,8 @@ and (max-width:1199px)
 {
     div#wrapper{width: 720px}
     header{font-size: 200%}
-    section{width: 540px; padding: 0px; margin: 0px;}
-    aside{width: 120px; font-size: 80%; padding: 0px; margin: 2px;}
+    section{width: 550px; padding: 0px; margin: 0px;}
+    aside{width: 150px; font-size: 80%; padding: 0px; margin: 2px;}
     footer{width: 720px}
 }
 @media only screen
