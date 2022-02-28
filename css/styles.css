@@ -60,7 +60,7 @@ nav a:hoover {text-decoration: dashed;}
     color: white;
 }
 section{
-    width:  700px;
+    width:  65%;
     float: left;
     margin: 5px;
     padding: 5px;
@@ -69,7 +69,7 @@ section{
 
 }
 aside {
-    width: 300px;
+    width: 30%;
     float: left;
     font-size: 100%;
     font-family: Arial;
