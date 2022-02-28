@@ -17,7 +17,7 @@ div.clear {
     clear:both;
 }
 div#wrapper {
-    width: auto;
+    width: 1280px;
     margin: 20px auto;
 }
 header {
@@ -60,7 +60,7 @@ nav a:hoover {text-decoration: dashed;}
     color: white;
 }
 section{
-    width:  90%;
+    width:  %;
     float: left;
     margin: 5px;
     padding: 5px;
@@ -131,6 +131,7 @@ footer a {
 /*and (min-width:721px)*/
 and (max-width:1280px)
 {
+    div#wrapper{width: 1080px};
     .header, .section, .aside, .footer{
         width: 50%;
     }
