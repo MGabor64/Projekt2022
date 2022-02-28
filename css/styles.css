@@ -17,7 +17,7 @@ div.clear {
     clear:both;
 }
 div#wrapper {
-    width: 1200px;
+    width: auto;
     margin: 20px auto;
 }
 header {
@@ -60,7 +60,7 @@ nav a:hoover {text-decoration: dashed;}
     color: white;
 }
 section{
-    width:  850px;
+    width:  auto;
     float: left;
     margin: 5px;
     padding: 5px;
@@ -69,7 +69,7 @@ section{
 
 }
 aside {
-    width: 300px;
+    width: auto;
     float: left;
     font-size: 100%;
     font-family: Arial;
