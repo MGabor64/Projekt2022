@@ -93,6 +93,7 @@ section article h1 {
     color: #000000;
     text-shadow: 1px 1px 1px #030307;
     font-family: Arial;
+    text-align: justify;
 }
 section article p {
     text-align: justify;
