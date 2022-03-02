@@ -136,6 +136,9 @@ and (max-width:1280px)
         width: 50%;
         font-size: 75%;
     }
+    .section, .aside{
+        text-align: center;
+    }
 
     /*div#wrapper{width: 720px}
     header{font-size: 200%}
