@@ -131,7 +131,7 @@ footer a {
 /*and (min-width:721px)*/
 and (max-width:1280px)
 {
-    div#wrapper{width: 90%};
+    div#wrapper{width: 85%; float: center;};
     .header, .section, .aside, .footer{
         width: 50%;
         font-size: 75%;
