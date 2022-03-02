@@ -75,6 +75,8 @@ aside {
     font-family: Arial;
     text-shadow: 1px;
     text-align: justify;
+    margin: 5px;
+    padding: 5px;
 
 }
 aside h1{
