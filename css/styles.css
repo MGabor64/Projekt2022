@@ -135,13 +135,27 @@ footer a {
 and (max-width:1280px)
 {
     div#wrapper{width: 85%; float: center;};
-    .header, .section, .aside, .footer{
+    .header{
         width: 50%;
         font-size: 50%;
         float: center;
-    }    
-    .aside{display: none}
-    .header{font-size: 50%;}
+    }
+    .section{
+        width: 50%;
+        font-size: 50%;
+        float: center;
+    }
+    .aside{
+        width: 50%;
+        font-size: 50%;
+        float: center;
+        display: none
+    } 
+    .footer{
+        width: 50%;
+        font-size: 50%;
+        float: center;
+    }         
     .nav a{
         margin: 50%;
         font-size: 80%;
