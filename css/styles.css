@@ -151,11 +151,11 @@ and (max-width:1280px)
         float: center;
     }
     section{
-        width: 70%;
+        
         font-size: 50%;
         float: left;
         border-left: 0;
-        border-right: 1px;
+        
         
     }
     aside{
