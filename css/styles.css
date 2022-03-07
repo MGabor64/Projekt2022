@@ -153,14 +153,14 @@ and (max-width:1280px)
     section{
         width: 50%;
         font-size: 50%;
-        float: center;
+        float: left;
         border: 0;
         
     }
     aside{
         width: 50%;
         font-size: 50%;
-        float: center;
+        float: right;
         
     } 
     footer{
