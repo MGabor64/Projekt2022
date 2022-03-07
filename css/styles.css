@@ -181,7 +181,7 @@ and (max-width:1080px)
     }
     aside{        
         font-size: 90%;
-               
+        width: 25%;      
     }
     footer{
         font-size: 90%;
