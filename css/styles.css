@@ -148,17 +148,20 @@ and (min-width:1081px)
     div#wrapper{width: 95%; float: center;};
     header{
         width: 50%;
-        font-size: 50%;
+        font-size: 90%;
         float: center;
     }
     section{        
-        font-size: 50%;
+        font-size: 90%;
         float: left;
               
     }
     aside{        
-        font-size: 50%;
+        font-size: 90%;
         float: right;        
+    }
+    footer{
+        font-size: 90%;
     }     
 }
 @media only screen
