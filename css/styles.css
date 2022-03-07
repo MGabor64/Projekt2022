@@ -176,12 +176,13 @@ and (max-width:1080px)
     }
     section{        
         font-size: 90%;
-        
+        width: 75%;
               
     }
     aside{        
         font-size: 90%;
-        width: 25%;      
+        width: 25%; 
+        display: none;     
     }
     footer{
         font-size: 90%;
