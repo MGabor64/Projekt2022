@@ -78,7 +78,7 @@ section{
 
 }
 aside {
-    width: 25%;
+    width: 30%;
     float: left;
     font-size: 100%;
     font-family: Arial;
@@ -153,12 +153,12 @@ and (min-width:1081px)
     }
     section{        
         font-size: 90%;
-        float: left;
+        
               
     }
     aside{        
         font-size: 90%;
-        float: right;        
+               
     }
     footer{
         font-size: 90%;
