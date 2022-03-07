@@ -22,7 +22,7 @@ div#wrapper {
 }
 header {
     text-align: center;
-    font-size: 200%;
+    font-size: 400%;
     font-weight: bold;
     font-family: "Times New Roman";
     text-shadow:  1px 1px 1px #0c101d;
@@ -139,7 +139,7 @@ and (max-width:1280px)
     div#wrapper{width: 85%; float: center;};
     .header{
         width: 50%;
-        font-size: 50%;
+        font-size: 100%;
         float: center;
     }
     .section{
