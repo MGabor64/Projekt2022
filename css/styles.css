@@ -150,20 +150,20 @@ and (max-width:1280px)
         font-size: 50%;
         float: center;
     }
-    .section{
+    section{
         width: 50%;
         font-size: 50%;
         float: center;
         border: 0;
         
     }
-    .aside{
+    aside{
         width: 50%;
         font-size: 50%;
         float: center;
         display: none
     } 
-    .footer{
+    footer{
         width: 50%;
         font-size: 50%;
         float: center;
