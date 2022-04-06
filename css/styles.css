@@ -208,6 +208,8 @@ and (max-width:1080px)
     }
     nav{
         text-align: center;
+        padding: auto;
+        margin: auto;
     }
 }
 /*@media only screen
