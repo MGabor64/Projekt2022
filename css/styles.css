@@ -184,7 +184,7 @@ and (max-width:1080px)
         width: 90%; 
         background-color: #263f927c;
         border-radius: 10px;
-        
+        text-align: center;
     }
     aside p,aside h1{
         color: white;
@@ -199,6 +199,9 @@ and (max-width:1080px)
         
         display: none;
     }  
+    nav a{
+        margin: 5px;
+    }
 }
 /*@media only screen
 and (min-width: 361px)
