@@ -182,7 +182,7 @@ and (max-width:1080px)
     aside{        
         font-size: 90%;
         width: 25%; 
-        display: none;     
+        background-color: lightskyblue;     
     }
     footer{
         font-size: 90%;
