@@ -181,7 +181,7 @@ and (max-width:1080px)
     }
     aside{        
         font-size: 90%;
-        width: 90%; 
+        width: auto; 
         background-color: #263f927c;
         border-radius: 10px;
         text-align: center;
@@ -208,9 +208,10 @@ and (max-width:1080px)
     }
     nav{
         text-align: center;
-        padding: auto;
+        
         margin: auto;
     }
+    nav a:first-child {margin-left: auto;}
 }
 /*@media only screen
 and (min-width: 361px)
