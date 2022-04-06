@@ -182,15 +182,14 @@ and (max-width:1080px)
     aside{        
         font-size: 90%;
         width: 40%; 
-        background-color: rgba(161, 205, 235, 0.678); 
-        
+        background-color: #263f927c;
+        color: white;
     }
     footer{
         font-size: 90%;
     } 
     #kicsi{
-        width: 100px;
-        height: 100px;
+        display: none;
     }  
 }
 /*@media only screen
