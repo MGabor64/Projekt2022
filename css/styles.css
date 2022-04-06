@@ -181,7 +181,7 @@ and (max-width:1080px)
     }
     aside{        
         font-size: 90%;
-        width: auto; 
+        width: 40%; 
         background-color: rgba(161, 205, 235, 0.678); 
         
     }
