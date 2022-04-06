@@ -210,6 +210,8 @@ and (max-width:1080px)
         text-align: center;
         
         margin: auto;
+        padding: auto;
+        margin-top: 10px;
     }
     nav a:first-child {margin-left: auto;}
 }
