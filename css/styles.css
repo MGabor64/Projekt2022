@@ -181,13 +181,16 @@ and (max-width:1080px)
     }
     aside{        
         font-size: 90%;
-        width: 40%; 
+        width: auto; 
         background-color: #263f927c;
         border-radius: 10px;
         
     }
     aside p,aside h1{
         color: white;
+    }
+    aside h1{
+        text-align: center;
     }
     footer{
         font-size: 90%;
