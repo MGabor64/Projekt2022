@@ -183,9 +183,10 @@ and (max-width:1080px)
         font-size: 90%;
         width: 40%; 
         background-color: #263f927c;
+        border-radius: 10px;
         
     }
-    aside p{
+    aside p,aside h1{
         color: white;
     }
     footer{
