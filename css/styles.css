@@ -202,6 +202,13 @@ and (max-width:1080px)
     nav a{
         margin: auto;
     }
+    footer a {
+        margin: auto;
+        
+    }
+    nav{
+        text-align: center;
+    }
 }
 /*@media only screen
 and (min-width: 361px)
