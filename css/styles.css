@@ -176,7 +176,7 @@ and (max-width:1080px)
     }
     section{        
         font-size: 90%;
-        width: 90%;
+        width: auto;
         float: center;
     }
     aside{        
