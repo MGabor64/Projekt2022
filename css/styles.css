@@ -188,10 +188,10 @@ and (max-width:1080px)
     footer{
         font-size: 90%;
     } 
-    aside image{
-        height: 100px;
+    #kicsi{
         width: 100px;
-    }    
+        height: 100px;
+    }  
 }
 /*@media only screen
 and (min-width: 361px)
