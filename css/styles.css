@@ -19,6 +19,8 @@ div.clear {
 div#wrapper {
     width: 1220px;
     margin: 20px auto;
+    padding-left: 5px;
+    padding-right: 5px;
 }
 header {
     text-align: center;
@@ -153,6 +155,7 @@ footer a {
     bottom: 0;
     background: rgba(255, 255, 255, 0.863);
     width: 100%;
+    padding-bottom: 10px;
     
   }
 @media only screen
@@ -220,6 +223,9 @@ and (max-width:1080px)
     footer a {
         margin: auto;
         
+    }
+    .content{
+        background-color: #f6feff;
     }
     nav{
         text-align: center;
